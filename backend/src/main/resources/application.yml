@@ -1,0 +1,9 @@
+  spring:
+    data:
+      mongodb:
+        database: perficient_db
+        port: 27017
+        host: localhost
+  server:
+    port: 9090
+
